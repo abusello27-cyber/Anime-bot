@@ -1,6 +1,6 @@
 <?php
 /* ========== SOZLAMALAR ========== */
-$token = "BOT_TOKENNI_BU_YERGA_QOY";
+$token = "8502164048:AAH3k8_4BkC048JMI6p5ZXP_c7fYl4CqXC8";
 $api   = "https://api.telegram.org/bot".$token;
 
 /* ========== FILELAR ========== */
