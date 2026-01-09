@@ -2,8 +2,8 @@
 error_reporting(0);
 
 /* ====== SOZLAMALAR ====== */
-$token = "BOT_TOKENNI_BU_YERGA_QOY"; // <-- TOKEN
-$admin_ids = [111111111]; // <-- ADMIN ID lar
+$token = "8502164048:AAH3k8_4BkC048JMI6p5ZXP_c7fYl4CqXC8"; // <-- TOKEN
+$admin_ids = [7602739916]; // <-- ADMIN ID lar
 
 $api = "https://api.telegram.org/bot$token";
 
